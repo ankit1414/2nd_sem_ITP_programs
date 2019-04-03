@@ -1,4 +1,5 @@
-//2nd largest in an array
+//2nd largest INTEGER in an INTEGER array
+//DEVELOPED BY: ANKIT BHARDWAJ
 #include<stdio.h>
 int main()
 {   int siz,i=0,max=-1000000,max2=-10000000;
