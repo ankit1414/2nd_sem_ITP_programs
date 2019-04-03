@@ -1,4 +1,4 @@
-//opening a file in c lang
+//opening a file in READ MODE IN  c lang
 #include<stdio.h>
 int main()
 {   FILE *fp;
