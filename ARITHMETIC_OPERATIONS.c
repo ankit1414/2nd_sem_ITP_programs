@@ -7,7 +7,7 @@ void main(){
     scanf("%d",&n1);
     printf("Enter n2  :: ");
     scanf("%d",&n2);
-    printf("ARITHMATIC OPERATIONS::\n");
+    printf("ARITHMETIC OPERATIONS::\n");
     printf("Addition       :: %d\n",n1+n2);
     printf("Subtraction    :: %d\n",n1-n2);
     printf("Multiplication :: %d\n",n1*n2);
