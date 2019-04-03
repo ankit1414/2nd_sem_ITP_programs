@@ -1,4 +1,5 @@
 //string palindrome
+//DEVELOPED BY: ANKIT BHARDWAJ
 #include<stdio.h>
 #include<string.h>
 int main()
