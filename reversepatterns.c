@@ -1,3 +1,5 @@
+//ALL REVERSE PATTERS
+//DEVELOPED BY: ANKIT BHARDWAJ
 /*#include<stdio.h>
 void main()
 {   int i;
