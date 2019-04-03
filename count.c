@@ -1,3 +1,5 @@
+//program to count the no of even ...positive.....negative integers in an array
+//DEVELOPED BY: ANKIT BHARDWAJ
 #include<stdio.h>
 int main()
 {
