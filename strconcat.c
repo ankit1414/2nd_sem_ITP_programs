@@ -1,3 +1,5 @@
+//STRING CONCATINATION WITHOUT USING INBUILT FUNCTIONS.
+//DEVELOPED BY: ANKIT BHARDWAJ
 #include<stdio.h>
 #include<string.h>
 int main()
