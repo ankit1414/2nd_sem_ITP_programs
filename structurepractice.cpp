@@ -1,3 +1,5 @@
+//STRUCTURE PRACTICE....PROGRAM TO ARRANGE THE RECORDS IN ALPHABETICAL ORDER.
+//DEVELOPED BY: ANKIT BHARDWAJ
 #include<iostream>
 #include<string.h>
 const int siz=2;
